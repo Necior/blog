@@ -10,3 +10,4 @@ github_username: Necior
 markdown: kramdown
 kramdown:
   input: GFM
+highlighter: pygments
