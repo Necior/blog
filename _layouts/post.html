@@ -5,7 +5,7 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} • {{ page.content | number_of_words }} words</p>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} {{ site.delimiter_char }} {{ page.author }}{% endif %}{% if page.meta %} {{ site.delimiter_char }} {{ page.meta }}{% endif %} {{ site.delimiter_char }} {{ page.content | number_of_words }} words</p>
   </header>
 
   <article class="post-content">

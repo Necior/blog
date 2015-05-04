@@ -5,6 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.sadlocha.eu" # the base hostname & protocol for your site
 twitter_username: Necior
 github_username: Necior
+delimiter_char: •
 
 # Build settings
 permalink: /:year/:month/:title/
