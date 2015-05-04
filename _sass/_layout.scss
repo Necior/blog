@@ -172,6 +172,13 @@
 .post-list {
     margin-left: 0;
     list-style: none;
+    > li {
+        margin-bottom: 6px;
+    }
+}
+
+.post-category {
+    font-size: 12px;
 }
 
 .post-meta {
