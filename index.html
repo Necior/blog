@@ -11,6 +11,9 @@ layout: default
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          {% if post.tags.size > 0 %}
+            <span class="post-category">({{ post.tags | join:', ' }})</span>
+          {% endif %}
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </h2>
       </li>
