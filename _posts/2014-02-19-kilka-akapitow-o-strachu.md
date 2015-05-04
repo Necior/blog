@@ -2,7 +2,7 @@
 layout: post
 title: Kilka akapitów o strachu
 date: '2014-02-19T15:01:40+01:00'
-tags: []
+tags: life
 tumblr_url: http://blog.sadlocha.eu/post/77172864099/kilka-akapitow-o-strachu
 ---
 

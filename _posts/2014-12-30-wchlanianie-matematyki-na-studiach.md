@@ -2,7 +2,7 @@
 layout: post
 title: Wchłanianie matematyki na studiach
 date: '2014-12-30T12:00:45+01:00'
-tags: []
+tags: edu
 tumblr_url: http://blog.sadlocha.eu/post/106601751137/wchlanianie-matematyki-na-studiach
 ---
 

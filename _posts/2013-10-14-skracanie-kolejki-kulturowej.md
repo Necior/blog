@@ -2,7 +2,7 @@
 layout: post
 title: Skracanie kolejki kulturowej
 date: '2013-10-14T20:09:00+02:00'
-tags: []
+tags: tech
 tumblr_url: http://blog.sadlocha.eu/post/64035701887/skracanie-kolejki-kulturowej
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Wpływ zobowiązania na zadowolenie
 date: '2013-10-07T21:37:00+02:00'
-tags: []
+tags: life
 tumblr_url: http://blog.sadlocha.eu/post/63394753582/wplyw-zobowiazania-na-zadowolenie
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Let the hacking begin
 date: '2013-10-03T20:20:27+02:00'
-tags: []
+tags: blog
 tumblr_url: http://blog.sadlocha.eu/post/63009744872/let-the-hacking-begin
 ---
 

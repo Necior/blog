@@ -2,7 +2,7 @@
 layout: post
 title: Kiedy szybciej nie znaczy lepiej
 date: '2013-10-28T23:37:00+01:00'
-tags: []
+tags: life
 tumblr_url: http://blog.sadlocha.eu/post/65374578321/kiedy-szybciej-nie-znaczy-lepiej
 ---
 

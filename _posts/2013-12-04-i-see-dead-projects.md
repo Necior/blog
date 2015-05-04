@@ -2,7 +2,7 @@
 layout: post
 title: I see dead projects
 date: '2013-12-04T18:08:03+01:00'
-tags: []
+tags: life
 tumblr_url: http://blog.sadlocha.eu/post/68987178310/i-see-dead-projects
 ---
 

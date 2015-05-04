@@ -2,7 +2,7 @@
 layout: post
 title: Umarł król, niech żyje król!
 date: '2014-01-18T20:06:00+01:00'
-tags: []
+tags: life
 tumblr_url: http://blog.sadlocha.eu/post/73741594340/umarl-krol-niech-zyje-krol
 ---
 

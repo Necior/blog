@@ -2,7 +2,7 @@
 layout: post
 title: Jeden wpis, dziesięć palców
 date: '2014-03-27T19:00:46+01:00'
-tags: []
+tags: tech
 tumblr_url: http://blog.sadlocha.eu/post/80892936176/jeden-wpis-dziesiec-palcow
 ---
 

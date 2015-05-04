@@ -2,7 +2,7 @@
 layout: post
 title: Jak się uczyć do matury z informatyki
 date: '2014-08-29T22:46:22+02:00'
-tags: []
+tags: edu
 tumblr_url: http://blog.sadlocha.eu/post/96111375743/jak-sie-uczyc-do-matury-z-informatyki
 ---
 

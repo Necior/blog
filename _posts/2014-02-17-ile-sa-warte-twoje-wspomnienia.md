@@ -2,7 +2,7 @@
 layout: post
 title: Ile są warte Twoje wspomnienia?
 date: '2014-02-17T18:59:38+01:00'
-tags: []
+tags: tech
 tumblr_url: http://blog.sadlocha.eu/post/76972967015/ile-sa-warte-twoje-wspomnienia
 ---
 
