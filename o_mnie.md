@@ -1,7 +1,6 @@
 ---
 layout: page
 title: O mnie
-published: false
 permalink: /o_mnie/
 ---
 
