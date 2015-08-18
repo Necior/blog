@@ -20,7 +20,7 @@ Te dwa elementy się pięknie przeplatają. Trudno jest zrozumieć ideę bez zro
 
 # Zróżnicuj źródła
 
-Pamiętaj, że warto spojrzeć na te same pojęcia z różnych perspektych, a twierdzenia można dowodzić na wiele sposobów. Zerknij na tok rozumowania innych matematyków. To ułatwia poruszanie się po wielu gałęziach tej nauki. Przykładowe źródła:
+Pamiętaj, że warto spojrzeć na te same pojęcia z różnych perspektyw, a twierdzenia można dowodzić na wiele sposobów. Zerknij na tok rozumowania innych matematyków. To ułatwia poruszanie się po wielu gałęziach tej nauki. Przykładowe źródła:
 
 - stare egzaminy,
 - własne notatki,
