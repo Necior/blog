@@ -13,3 +13,4 @@ markdown: kramdown
 kramdown:
   input: GFM
 highlighter: pygments
+future: false
