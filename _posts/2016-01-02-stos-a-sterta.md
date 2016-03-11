@@ -10,7 +10,7 @@ Jednakże każdy, kto chce się nazywać developerem, powinien rozróżniać te 
 
 # Stos
 
-Na stosie (_stacku_) przechowywane są zmienne lokalne. Stos jest kolejką LIFO (ang. _last-in, first-out_).
+Na stosie (_stacku_) przechowywane są zmienne lokalne. Stos jest buforem LIFO (ang. _last-in, first-out_).
 
 Stos jest obsługiwany automatycznie z punktu widzenia programisty, nie ma potrzeby ręcznego zwalniania pamięci.
 
@@ -23,7 +23,7 @@ int triple(int in) {
 }
 {% endhighlight %}
 
-Podczas wywoływania funkcji na stos kładzione są kolejno zmienne `in` i `result`, natomiast podczas powrotu do funkcji wywołującej, są one zdejmowane (w odwrotnej kolejności, niż były kładzione, ponieważ jest to kolejka LIFO).
+Podczas wywoływania funkcji na stos kładzione są kolejno zmienne `in` i `result`, natomiast podczas powrotu do funkcji wywołującej, są one zdejmowane (w odwrotnej kolejności, niż były kładzione, ponieważ jest to bufor LIFO).
 
 # Sterta
 
