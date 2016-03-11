@@ -16,12 +16,12 @@ Stos jest obsługiwany automatycznie z punktu widzenia programisty, nie ma potrz
 
 W poniższym przykładzie, `in` oraz `result` są zmiennymi przechowywanymi na stosie.
 
-{% highlight c %}
+```c
 int triple(int in) {
     int result = in * 3;
     return result;
 }
-{% endhighlight %}
+```
 
 Podczas wywoływania funkcji na stos kładzione są kolejno zmienne `in` i `result`, natomiast podczas powrotu do funkcji wywołującej, są one zdejmowane (w odwrotnej kolejności, niż były kładzione, ponieważ jest to bufor LIFO).
 
@@ -35,13 +35,13 @@ Zarządzanie zmiennymi na stercie należy do zadań programisty. W języku C sł
 
 W poniższym przykładzie, ściśle mówiąc, `result` jest zmienną lokalną, która zawiera adres komórki pamięci do danych, które są na stercie. Jednak nieraz używa się skrótu myślowego i mówi się, że `result` jest na stercie.
 
-{% highlight c %}
+```c
 int *triple(int in) {
     int *result = malloc(sizeof(int));
     *result = in * 3;
     return result;
 }
-{% endhighlight %}
+```
 
 (Warto też zauważyć, że zamiast konstrukcji `int *result = malloc(sizeof(int))` można użyć `int *result = malloc(sizeof(*result))`, ale nie będę tutaj rozważał wyższości któregoś rozwiązania nad innym.)
 
