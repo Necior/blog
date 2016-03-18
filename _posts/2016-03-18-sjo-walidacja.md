@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brak walidacji danych po stronie serwera SJO PW
-tags: life sec
+tags: life sec tech
 ---
 
 Zaczęło się niewinnie. Jak każdego semestru, przyszedł dzień rejestracji na lektoraty. Angielski dobrałem do planu tak, aby zmniejszyć liczbę wolnych godzin między zajęciami, zaś rosyjski - w piątek z rana. Dzień tygodnia jak w poprzednim semestrze, godzina również.
