@@ -1,5 +1,5 @@
 # Site settings
-title: Adrian Sadłocha - blog
+title: Adrian Sadłocha • blog
 description: Myśli stukotem klawiatury przelane.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.sadlocha.eu" # the base hostname & protocol for your site
