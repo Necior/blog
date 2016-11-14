@@ -47,4 +47,4 @@ int *triple(int in) {
 
 Należy pamiętać, aby zwolnić pamięć zaalokowaną przy pomocy `malloc`, używając `free` w miejscu, w którym wynik funkcji `triple` przestaje być istotny.
 
-Dostęp do danych na stercie jest wolniejszy niż do danych ze stosu, jednak pozwala nam - jako developerom - dostosować rozmiar danych w pamięci do danych wejściowych. Ponadto, stos jest z reguły wyraźnie mniejszy, zatem duże bloki danych przechowuje się na stercie.
+Sterta pozwala nam - jako developerom - dostosować rozmiar danych w pamięci do danych wejściowych. Ponadto, stos jest z reguły wyraźnie mniejszy, zatem duże bloki danych przechowuje się na stercie.
