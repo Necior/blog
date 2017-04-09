@@ -14,3 +14,6 @@ kramdown:
   input: GFM
 highlighter: rouge
 future: false
+
+gems:
+  - jekyll-feed
