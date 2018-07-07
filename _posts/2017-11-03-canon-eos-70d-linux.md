@@ -15,7 +15,7 @@ Poniżej instrukcje dla pochodnych Debiana.
 Instalujemy potrzebne narzędzia: `apt-get install gphoto2 v4l2loopback-utils`.
 Dodajemy odpowiedni moduł kernela: `modprobe v4l2loopback`.
 
-Teraz, gdy chcemy wysokiej jakości kamerkę, wystarczy podpiąć urządzenie pod port USB i użyć poniższego, zacnego _onelinera_ (w razie potrzeby zmień `/dev/video0` na inne urządzenie):
+Teraz, gdy chcemy wysokiej jakości kamerkę, wystarczy podpiąć urządzenie pod port USB i użyć poniższego _onelinera_ (w razie potrzeby zmień `/dev/video0` na właściwą lokalizację urządzenia):
 
 ```
 gphoto2 --stdout --capture-movie | gst-launch-1.0 fdsrc ! decodebin name=dec ! queue ! videoconvert ! v4l2sink device=/dev/video0
